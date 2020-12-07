@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+pre {
+    font-family: "PT Sans Caption", sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #b4bdc5;
+}
+
+.cont {
+    font-family: "PT Sans Caption", sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #b4bdc5 !important;
+}
+
+.side {
+    background-attachment: fixed;
+    background-image: url("images/home_pg_bk.jpg");
+    background-size: 100%, 100%;
+}
